@@ -11,7 +11,8 @@ body {
     font: 16px/1.4 sans-serif;
     overflow: hidden;
     /* background-color: #232425; */
-    background: linear-gradient(#8a2387,#e94057,#f27121);
+    /* background: linear-gradient(#8a2387,#e94057,#f27121); */
+    background: linear-gradient(#2980b9,#6dd5fa,#ffffff);
 }
 
 .book {
